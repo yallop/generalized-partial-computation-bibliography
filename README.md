@@ -8,7 +8,18 @@
   ([paper](http://pier.botik.ru/~znamensk/sbornik/meta-2008/meta2008_submission_10.pdf))  
   by A.P. Nemytykh
 
+### 2003
+
+* **Automatic Generation of a Suffix Trie from a Naive Pattern Matcher and a Text by Partial Evaluation** (JSSST, 2003)  
+  ([paper](https://fi.ftmr.info/PapersToRead/JSSST20-September-2003.pdf))  
+  by Y. Futamura, Z. Konishi, K. Maeho and M. Kawabe
+
 ### 2002
+
+* **Program Transformation System based on Generalized Partial Computation** (New Generation Computing 20(1), 2002)  
+  ([paper](https://doi.org/10.1007/BF03037260))
+  ([BibTeX](https://dblp.org/rec/journals/ngc/FutamuraKG01.html?view=bibtex))  
+  by Y. Futamura, Z. Konishi and R. Glück
 
 * **Automatic generation of a boyer-moore type pattern matcher by generalized partial computation** (IEEE International Conference on Systems, Man and Cybernetics)  
   by Y. Futamura, Z. Konishi and R. Gluck
@@ -34,13 +45,27 @@
 
 ### 2000
 
+* **Implementation of an Experimental System for Automatic Program Transformation Based on Generalized Partial Computation** (3rd International Workshop on Intelligent Software Engineering, Limerick, 2000)  
+  by Y. Futamura, Z. Konishi and R. Glück
+
+* **Automatic Program Generation by Generalized Partial Computation** (RIMS Kôkyûroku 1125, 2000, pp. 38–43)  
+  ([paper](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1125-4.pdf))  
+  by Y. Futamura, Z. Konishi and L. Song  
+  (In Japanese)
+
 * **Recursion removal on generalized partial computation** (JSSST, 2000)  
   by Z. Konishi and Y Futamura
 
 ### 1999
 
-* **A theorem proving system and a terminating process for Generalized Partial Computation (GPC)** (RIMS Workshop on Program Transformation, Symbolic Computation and Algebraic Manipulation)  
-  by Z Konishi and Y Futamura
+* **A theorem proving system and a terminating process for Generalized Partial Computation (GPC)** (RIMS Workshop on Program Transformation, Symbolic Computation and Algebraic Manipulation; RIMS Kôkyûroku 1125, 2000, pp. 59–64)  
+  ([paper](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1125-6.pdf))  
+  by Z Konishi and Y Futamura  
+  (In Japanese)
+
+* **プログラム変換システム (Program translation based on generalized partial computation)** (Japanese Patent 2922207, 1999)  
+  ([patent](https://patents.google.com/patent/JP2922207B2/ja))  
+  by Y. Futamura and K. Nogi
 
 ### 1998
 
@@ -84,12 +109,22 @@
   ([patent](https://patents.google.com/patent/US5241678))  
   by Y. Futamura and K. Nogi
 
+### 1992
+
+* **Generalized partial computation using disunification to solve constraints** (CTRS 1992)  
+  ([paper](https://doi.org/10.1007/3-540-56393-8_32))  
+  by A. Takano
+
 ### 1991
 
 * **Essence of generalized partial computation** (TCS 1991)  
   ([paper](https://doi.org/10.1016/0304-3975(91)90299-H))
   ([BibTeX](https://dblp.org/rec/journals/tcs/FutamuraNT91.html?view=bibtex))  
   by Y. Futamura, K. Nogi and A. Takano
+
+* **Generalized partial computation for a lazy functional language** (PEPM 1991)  
+  ([paper](https://dl.acm.org/doi/10.1145/115865.115867))  
+  by A. Takano
 
 ### 1990
 
