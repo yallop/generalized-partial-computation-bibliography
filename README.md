@@ -17,7 +17,7 @@
   by Y. Futamura and Z. Konishi
 
 * **WSDFU: Program Transformation System based on Generalized Partial Computation** (The Essence of Computation)  
-  ([paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.5822&rep=rep1&type=pdf))
+  ([paper](https://doi.org/10.1007/3-540-36377-7_16))
   ([BibTeX](https://dblp.org/rec/conf/birthday/FutamuraKG02.html?view=bibtex))  
   by Y. Futamura, Z. Konishi and R. Glück
 
@@ -29,7 +29,7 @@
 ### 2001
 
 * **Automatic generation of very efficient programs by Generalized Partial Computation** (Wuhan University Journal of Natural Sciences)  
-  ([paper](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/content/pdf/10.1007/BF03160221.pdf&casa_token=7vk0wweTD38AAAAA:OqncPTIdhUIfcnnvYN03TRtW-4Fw2eYVC-mqtOcnm2mCJMw_I3YHrzD8omXqPoUqDBoGRvOrEOR3sXgN))  
+  ([paper](https://doi.org/10.1007/BF03160221))  
   by Y. Futamura, Z. Konishi and R. Glück
 
 ### 2000
@@ -62,12 +62,12 @@
   by D. Zhao and Y. Fu
 
 * **A positive supercompiler** (JFP, 1996)  
-  ([paper](https://www.researchgate.net/publication/231902563_A_positive_supercompiler))
+  ([paper](https://doi.org/10.1017/S0956796800002008))
   ([BibTeX](https://dblp.org/rec/journals/jfp/SorensenGJ96.html?view=bibtex))  
   by M.H. Sørensen, R. Glück and N.D. Jones
 
 * **A comparative revisitation of some program transformation techniques** (Partial Evaluation, 1996)  
-  ([paper](https://www.researchgate.net/profile/Maurizio-Proietti-2/publication/2745169_A_Comparative_Revisitation_of_Some_Program_Transformation_Techniques/links/0fcfd509cc23f989b1000000/A-Comparative-Revisitation-of-Some-Program-Transformation-Techniques.pdf))
+  ([paper](https://doi.org/10.1007/3-540-61580-6_18))
   ([BibTeX](https://dblp.org/rec/conf/dagstuhl/PettorossiP96.html?view=bibtex))  
   by A. Pettorossi and M. Proietti
 
@@ -87,7 +87,7 @@
 ### 1991
 
 * **Essence of generalized partial computation** (TCS 1991)  
-  ([paper](https://www.sciencedirect.com/science/article/pii/030439759190299H/pdf))
+  ([paper](https://doi.org/10.1016/0304-3975(91)90299-H))
   ([BibTeX](https://dblp.org/rec/journals/tcs/FutamuraNT91.html?view=bibtex))  
   by Y. Futamura, K. Nogi and A. Takano
 
